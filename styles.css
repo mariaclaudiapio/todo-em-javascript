@@ -163,3 +163,11 @@ select {
     text-decoration: line-through;
     font-style: italic;
 }
+
+.fa-solid.fa-check {
+    color: green;
+}
+
+.fa-solid.fa-xmark {
+    color: red;
+}
